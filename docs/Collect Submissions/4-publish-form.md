@@ -1,21 +1,8 @@
 ---
-layout: default
-title: Publish your form
-parent: Collect submissions
-nav_order: 4
-permalink: /docs/forms/publish
+sidebar_label: Publish your form
 ---
 
 # Step 4: Publish your form
-{: .no_toc }
-
-## On this page
-{: .no_toc .text-delta }
-
-1. TOC
-{: toc }
-
----
 
 ## Test your form
 
@@ -32,9 +19,9 @@ Responses submitted to this link will not be recorded.
 
 ### Tips for testing forms
 
-* **Look out for typos!** Verify that your form, sections, and questions titles and descriptions are correct.
-* **Ensure consistency.** Cross-reference the questions and validations with your read-only copies.
-* **Validate your validations.** Ensure your word limits and other validations are what candidates would expect.
+- **Look out for typos!** Verify that your form, sections, and questions titles and descriptions are correct.
+- **Ensure consistency.** Cross-reference the questions and validations with your read-only copies.
+- **Validate your validations.** Ensure your word limits and other validations are what candidates would expect.
 
 ## Publish it to the world!
 

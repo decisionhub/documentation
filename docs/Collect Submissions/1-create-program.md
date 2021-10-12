@@ -1,9 +1,5 @@
 ---
-layout: default
-title: Create a program
-parent: Collect submissions
-nav_order: 1
-permalink: /docs/forms/create-program
+sidebar_label: Create a program
 ---
 
 # Step 1: Create a program

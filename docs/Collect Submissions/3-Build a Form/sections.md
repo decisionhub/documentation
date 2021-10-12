@@ -9,15 +9,6 @@ permalink: /docs/forms/build/sections
 
 # Working with sections
 
-{: .no_toc }
-
-## On this page
-
-{: .no_toc .text-delta }
-
-1. TOC
-   {: toc }
-
 ## About form sections
 
 Form sections are used to group related questions together into categories. Sections are important in DecisionHub forms because they'll be determine how responses are laid out for your committee members and applicants.

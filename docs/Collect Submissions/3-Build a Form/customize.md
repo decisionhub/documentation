@@ -1,12 +1,3 @@
----
-layout: default
-title: Customize your form
-parent: Build a form
-grand_parent: Collect submissions
-nav_order: 3
-permalink: /docs/forms/build/customize
----
-
 # Customize your form
 
 ## Add a header image
@@ -26,4 +17,3 @@ permalink: /docs/forms/build/customize
 1. At the top of the form builder page, click **Form Settings**. A panel should open.
 2. Replace the default confirmation message with your custom note.
 3. Click **Save**.
-   

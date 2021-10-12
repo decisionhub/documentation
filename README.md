@@ -31,3 +31,16 @@ $ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+### Creating a page
+
+---
+
+sidebar_label: 'Hi!' //Title in the sidebar - by default uses the first line in the file if not set
+sidebar_position: 3 //Ordering in the sidebar
+id: my-doc-id //Unique ID
+title: My document title
+description: My document description
+slug: /my-custom-url //Custom URL - by default uses the file name
+
+---

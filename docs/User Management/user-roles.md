@@ -1,11 +1,3 @@
----
-layout: default
-title: Understanding user roles
-parent: Manage user access
-nav_order: 1
-permalink: /docs/users/roles
----
-
 # Understanding user roles
 
 {: .no_toc }

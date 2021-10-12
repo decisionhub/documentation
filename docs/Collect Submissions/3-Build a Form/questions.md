@@ -8,13 +8,6 @@ permalink: /docs/forms/build/questions
 ---
 
 # Working with questions
-{: .no_toc }
-
-## On this page
-{: .no_toc .text-delta }
-
-1. TOC
-{: toc }
 
 ## About form questions
 
@@ -25,8 +18,9 @@ Each form question represents a distinct piece of information you can collect to
 The **Identifier Question** is a special mandatory question that is used to uniquely identify an applicant for your review committee.
 
 You can configure what this means for your committee by changing the Identifier Question's text and description. Some example identifiers include:
-* Organization name
-* Contact person
+
+- Organization name
+- Contact person
 
 <!-- ## Question types
 
@@ -61,7 +55,7 @@ By default, new questions are created as short answer questions. You can change 
 ## Re-order questions
 
 1. Click a question card and drag it to its proper position.
-   
+
 ## Delete a question
 
-1. On the bottom toolbar of the question you'd like to duplicate, click **Delete**.
+1. On the bottom toolbar of the question you'd like to delete, click **Delete**.

@@ -1,29 +1,14 @@
----
-layout: default
-title: Manage your organization
-nav_order: 5
-permalink: /docs/manage-organization
----
-
 # Manage your organization's programs
 
 A **program** is used to run a single decision process in DecisionHub. It holds your application form, submissions, and reviews.
 
 An **organization** can contain multiple programs. Only **Organization Admins** can create and manage these programs.
 
-To add/remove your organization's admins, [email us](contact).
-{: .banner-info .mb-6 }
-
-## On this page
-
-{: .no_toc .text-delta }
-
-1. TOC
-   {: toc }
+To add/remove your organization's admins, email us at support@decisionhuborg.
 
 ## Create a program
 
-When you create a program, you and the other admins of your organization are added as **Program Admins** for the program. Read more about program roles [here](users/roles).
+When you create a program, you and the other admins of your organization are added as **Program Admins** for the program. Read more about program roles [here](User%20Management/user-roles).
 
 1. View all of your programs.
 2. Click **Add new**.

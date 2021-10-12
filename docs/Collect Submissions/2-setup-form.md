@@ -1,21 +1,8 @@
 ---
-layout: default
-title: Set up your form
-parent: Collect submissions
-nav_order: 2
-permalink: /docs/forms/setup-form
+sidebar_label: Set up your form
 ---
 
 # Step 2: Set up your form
-
-{: .no_toc }
-
-## On this page
-
-{: .no_toc .text-delta }
-
-1. TOC
-   {: toc }
 
 ## Set up your form
 
