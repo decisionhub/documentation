@@ -8,13 +8,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Decisionhub Docs",
   tagline: "Collaborative Decision making platform",
-  url: "decisionhub.org",
-  baseUrl: "/",
-  onBrokenLinks: "throw",
+  url: "https://decisionhub.org/",
+  baseUrl: "/documentation/",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "decisionhub", // Usually your GitHub org/user name.
-  projectName: "decisionhub", // Usually your repo name.
+  projectName: "documentation", // Usually your repo name.
 
   presets: [
     [
@@ -24,7 +24,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/decisionhub/documentation",
+          editUrl: "https://github.com/decisionhub/documentation/tree/master/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -37,9 +37,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
+        title: "DecisionHub",
         logo: {
-          alt: "My Site Logo",
+          alt: "DecisionHub Logo",
           src: "img/favicon.ico",
         },
         items: [

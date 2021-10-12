@@ -26,7 +26,17 @@ export default function Home() {
       description="Description will go into a meta tag in <head />"
     >
       <HomepageHeader />
-      <main></main>
+      <main>
+        <a
+          href={
+            "https://decisionhub.org/documentation/docs/manage-organization"
+          }
+        >
+          <div style={{ marginTop: "10%", fontSize: 28, textAlign: "center" }}>
+            Go to Documentation
+          </div>
+        </a>
+      </main>
     </Layout>
   );
 }
