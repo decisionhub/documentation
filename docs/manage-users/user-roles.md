@@ -7,9 +7,10 @@ permalink: /docs/users/roles
 ---
 
 # Understanding user roles
+
 {: .no_toc }
 
-Arbitrium user roles define the actions a user can perform within a program. [Program Admins](#program-admin) can manage Arbitrium users and their roles from a program's [User Management page](.).
+DecisionHub user roles define the actions a user can perform within a program. [Program Admins](#program-admin) can manage DecisionHub users and their roles from a program's [User Management page](.).
 
 <!-- ## On this page
 {: .no_toc .text-delta }
@@ -28,6 +29,7 @@ Committee Members are responsible for [reviewing the candidate submissions](../g
 ## Program Admin
 
 Program Admins are able to:
+
 - Manage program access.
 - Build, publish, and manage the application form.
 - Retrieve reports of reviews conducted by Committee Members.
@@ -39,9 +41,9 @@ Grants the privileges of both the Program Admin and Committee Member roles withi
 ## Organization Admin
 
 Organization admins have the following privileges:
+
 - Automatically granted Program Admin access to **all** of an organization's programs.
 - They can [create and manage the organization's programs](../manage-organization).
 
 To add/remove your organization's admins, [email us](../contact).
 {: .banner-info .mb-6 }
-

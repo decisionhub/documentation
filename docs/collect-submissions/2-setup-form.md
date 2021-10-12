@@ -7,13 +7,15 @@ permalink: /docs/forms/setup-form
 ---
 
 # Step 2: Set up your form
+
 {: .no_toc }
 
 ## On this page
+
 {: .no_toc .text-delta }
 
 1. TOC
-{: toc }
+   {: toc }
 
 ## Set up your form
 
@@ -35,6 +37,6 @@ If your form is long, we'd highly advise that you ask applicants to prepare thei
 
 ### Customize the Identifier question
 
-Each Arbitrium form has a mandatory **Identifier** question. Your candidates' responses to this question will be used to identify them across the Arbitrium for your review committee.
+Each DecisionHub form has a mandatory **Identifier** question. Your candidates' responses to this question will be used to identify them across the DecisionHub for your review committee.
 
 You can customize this question for your form by changing the **Question Text** or **Question Description**.

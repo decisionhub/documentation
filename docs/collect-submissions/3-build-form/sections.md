@@ -8,17 +8,19 @@ permalink: /docs/forms/build/sections
 ---
 
 # Working with sections
+
 {: .no_toc }
 
 ## On this page
+
 {: .no_toc .text-delta }
 
 1. TOC
-{: toc }
+   {: toc }
 
 ## About form sections
 
-Form sections are used to group related questions together into categories. Sections are important in Arbitrium forms because they'll be determine how responses are laid out for your committee members and applicants.
+Form sections are used to group related questions together into categories. Sections are important in DecisionHub forms because they'll be determine how responses are laid out for your committee members and applicants.
 
 ## Create a section
 
@@ -32,7 +34,7 @@ Form sections are used to group related questions together into categories. Sect
 
 ## Re-order sections
 
-1. On the right hand corner of a section, click  **⋮**.
+1. On the right hand corner of a section, click **⋮**.
 2. Click **Move section**. A popup should appear.
 3. To re-order sections, drag the sections in the order you'd like.
 4. Click **Save**.
@@ -42,7 +44,7 @@ Form sections are used to group related questions together into categories. Sect
 Deleting a section will also delete all the questions under it. Make sure you don't need them anymore!
 {: .banner-danger .mb-6 }
 
-1. On the right hand corner of a section, click  **⋮**.
+1. On the right hand corner of a section, click **⋮**.
 2. Click **Delete section**.
 3. To confirm deleting the section and all its questions, click **Delete**.
 
