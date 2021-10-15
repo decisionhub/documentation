@@ -6,8 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Decisionhub Docs",
-  tagline: "Collaborative Decision making platform",
+  title: "DecisionHub Documentation",
+  tagline:
+    "A collaborative decision making platform for organizations to save time, remove bias, and make informed group decisions.",
   url: "https://decisionhub.org/",
   baseUrl: "/documentation/",
   onBrokenLinks: "warn",
@@ -45,7 +46,7 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "manage-account",
+            docId: "manage-organization",
             position: "left",
             label: "Documentation",
           },
