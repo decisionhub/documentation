@@ -1,5 +1,6 @@
 ---
 sidebar_label: Create a program
+sidebar_position: 1
 ---
 
 # Step 1: Create a program
@@ -11,7 +12,6 @@ Every program has one form, which allow you to collect the information from appl
 ## Create a new program
 
 Only Organization Admins can create new programs for your organization. By default, all Organization Admins are granted Program Admin access to new programs. You can always change a user's role, or remove them if they shouldn't be there.
-{: .banner-info .mb-6 }
 
 1. On the **All Programs** page, begin by clicking **Add new**.
 2. Enter a name for your program.

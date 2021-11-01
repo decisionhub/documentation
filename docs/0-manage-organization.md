@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+sidebar_label: "Manage your organization's programs"
+---
+
 # Manage your organization's programs
 
 A **program** is used to run a single decision process in DecisionHub. It holds your application form, submissions, and reviews.
