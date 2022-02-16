@@ -71,7 +71,7 @@ Validation is a way to set restrictions on what the applicant can enter into the
 
 Mapping is a cool feature unique to DecisionHub that allows admins to identify a direct 1:1 mapping from a question on this form to a question from a previous form. For example, if I collect the same information every 3 months from my applicants, I can map to the previous forms so applicants have the option on their side to autofill their answers from these previous forms. Applicants will appreciate you being considerate of their time!
 
-Mapping works for all question types. You can only map to a question of the same question type.
+Mapping works for all question types. You can only map to a question of the same question type. For a detailed explanation of mapping, please click [here](Collect%20Submissions/Mapping%20Questions).
 
 ## Duplicate a question
 
