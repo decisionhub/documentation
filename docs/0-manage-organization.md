@@ -9,7 +9,7 @@ A **program** is used to run a single decision process in DecisionHub. It holds 
 
 An **organization** can contain multiple programs. Only **Organization Admins** can create and manage these programs.
 
-To add/remove your organization's admins, email us at support@decisionhuborg.
+To add/remove your organization's admins, email us at support@decisionhub.org.
 
 ## Create a program
 
@@ -19,6 +19,8 @@ When you create a program, you and the other admins of your organization are add
 2. Click **Add new**.
 3. Enter the name for your program.
 4. Click **Create**.
+
+Note: If you do not have enough programs left please look into upgrading your plan with DecisionHub. Contact us [here](mailto:support@decisionhub.org) if you have any questions.
 
 ## Rename a program
 
@@ -71,3 +73,16 @@ Deleted programs **cannot** be recovered. If you would still like to reference t
    A confirmation message should appear.
 
 3. Click **Save**.
+
+## Duplicate a program
+
+1. View all of your programs.
+2. For the program you want to duplicate:
+
+   1. Click **⋮**.
+   2. Click **Duplicate**.
+
+3. On the confirmation message popup, enter the name of the new program.
+4. Click **Save**.
+
+Note: This option may be disabled if you do not have enough programs left. Please look into upgrading your plan with DecisionHub. Contact us [here](mailto:support@decisionhub.org) if you have any questions.
