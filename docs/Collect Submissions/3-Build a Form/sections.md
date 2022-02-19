@@ -27,8 +27,8 @@ Form sections are used to group related questions together into categories. Sect
 
 1. On the right hand corner of a section, click **⋮**.
 2. Click **Move section**. A popup should appear.
-3. To re-order sections, drag the sections in the order you'd like.
-4. Click **Save**.
+3. To re-order sections, use the **˄** and **˅** buttons to move sections in the order you'd like.
+4. Click **Save** to save the changes. Click **Cancel** to undo the changes.
 
 ## Delete a section
 
