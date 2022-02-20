@@ -59,7 +59,9 @@ The supported question types within DecisionHub are as follows:
 
 ### Validation
 
-Validation is a way to set restrictions on what the applicant can enter into the question. All question types have validation except for Multiple Choice. The validations can be used as follows:
+Validation is a way to set restrictions on what the applicant can enter into the question. All question types have validation except for Multiple Choice. To access the validations, click the **Show Validation** button on the bottom of the question card.
+
+The validations can be used as follows:
 
 1. Short Answer: setting a word count or character count restriction (both min or max) on the short answer
 2. Paragraphs: setting a word count or character count restriction (both min or max) on the paragraph answer
