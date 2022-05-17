@@ -11,7 +11,7 @@ permalink: /docs/forms/build/questions
 
 ## About form questions
 
-Each form question represents a distinct piece of information you can collect to help inform your review committee. Each question lives within a section, which groups questions together for your applicants and committee members.
+Each form question represents a distinct piece of information you can collect to help inform your review committee. Each question lives within a section, which groups questions together for your applicants and reviewers.
 
 ## The Identifier Question
 

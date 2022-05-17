@@ -2,9 +2,9 @@
 
 ## Things to keep in mind
 
-- If the person had previously made any reviews (as an Admin & Committee Member or Committee Member), their reviews will continue to show in reports.
+- If the person had previously made any reviews (as an Admin & Reviewer or Reviewer), their reviews will continue to show in reports.
 - You can always [re-add a user](add-users).
-  - If you re-add them as a reviewer (Admin & Committee Member or Committee Member) and they had previously made reviews, they will be restored for the user.
+  - If you re-add them as a reviewer (Admin & Reviewer or Reviewer) and they had previously made reviews, they will be restored for the user.
 
 ## Remove a user from your program
 

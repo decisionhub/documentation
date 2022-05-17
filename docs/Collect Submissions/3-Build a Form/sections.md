@@ -11,7 +11,7 @@ permalink: /docs/forms/build/sections
 
 ## About form sections
 
-Form sections are used to group related questions together into categories. Sections are important in DecisionHub forms because they'll be determine how responses are laid out for your committee members and applicants.
+Form sections are used to group related questions together into categories. Sections are important in DecisionHub forms because they'll be determine how responses are laid out for your reviewers and applicants.
 
 ## Create a section
 
@@ -20,7 +20,7 @@ Form sections are used to group related questions together into categories. Sect
 3. Provide additional instructions or context for applicants by filling in an optional description.
 4. Indicate whether the questions will be used as **Admin Info** or as **Decision Criteria**.
 
-**Admin Info** should be used for administrative facts about the candidate, which won't be rated to make a decision. **Decision Criteria** should include questions that your committee members are expected to review and rate.
+**Admin Info** should be used for administrative facts about the candidate, which won't be rated to make a decision. **Decision Criteria** should include questions that your reviewers are expected to review and rate.
 {: .banner-info .mb-6 }
 
 ## Re-order sections
