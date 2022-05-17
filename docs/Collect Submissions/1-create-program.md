@@ -15,7 +15,7 @@ Only Organization Admins can create new programs for your organization. By defau
 
 1. On the **All Programs** page, begin by clicking **Add new**.
 2. Enter a name for your program.
-   - This will help you, your admins, and committee members identify the program within DecisionHub.
+   - This will help you, your admins, and reviewers identify the program within DecisionHub.
    - Applicants cannot see the program name.
    - You can always change this later!
 3. Click **Create**.

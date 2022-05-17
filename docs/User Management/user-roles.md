@@ -14,9 +14,9 @@ DecisionHub user roles define the actions a user can perform within a program. [
 
 Guests are granted read-only access to the candidate submissions of the program. Their reviews are not included in reports.
 
-## Committee Member
+## Reviewer
 
-Committee Members are responsible for [reviewing the candidate submissions](../get-started/committee-members) of the program. They are not able to see other Committee Members' reviews.
+Reviewers are responsible for [reviewing the candidate submissions](../get-started/committee-members) of the program. They are not able to see other Reviewers' reviews.
 
 ## Program Admin
 
@@ -24,11 +24,11 @@ Program Admins are able to:
 
 - Manage program access.
 - Build, publish, and manage the application form.
-- Retrieve reports of reviews conducted by Committee Members.
+- Retrieve reports of reviews conducted by Reviewers.
 
-## Admin & Committee Member
+## Admin & Reviewer
 
-Grants the privileges of both the Program Admin and Committee Member roles within a program.
+Grants the privileges of both the Program Admin and Reviewer roles within a program.
 
 ## Organization Admin
 

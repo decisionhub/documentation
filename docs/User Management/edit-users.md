@@ -2,7 +2,7 @@
 
 ## Things to keep in mind
 
-- If the person had previously made any reviews (as an Admin & Committee Member or Committee Member), their reviews will continue to show in reports.
+- If the person had previously made any reviews (as an Admin & Reviewer or Reviewer), their reviews will continue to show in reports.
 
 ## Change a user's role
 
